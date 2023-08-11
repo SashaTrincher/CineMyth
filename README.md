@@ -1,0 +1,1 @@
+Website was made by Oleksandr Trincher, 11/08/2023
