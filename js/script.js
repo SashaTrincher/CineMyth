@@ -12,21 +12,21 @@ searchSubmitTrigger.addEventListener('click', () => {
             case 'oshi no ko': 
 
                 setTimeout(() => {
-                    window.location.href = '../html/oshi-no-ko.html';
+                    window.location.href = '../CineMyth/html/oshi-no-ko.html';
                 }, 1000);
 
                 break;
             case 'breaking bad':
 
                 setTimeout(() => {
-                    window.location.href = '../html/breaking-bad';
+                    window.location.href = '../CineMyth/html/breaking-bad.html';
                 }, 1000);
 
                 break;
             case 'transcendence':
 
                 setTimeout(() => {
-                    window.location.href = '../html/transcendence.html';
+                    window.location.href = '../CineMyth/html/transcendence.html';
                 }, 1000);
 
                 break;
